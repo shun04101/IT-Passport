@@ -11,13 +11,13 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
 
 ## 学習内容(随時更新)
 - 1章：　コンピュータ
- - コンピュータの基本
- - 記憶装置
- - 入出力装置
- - ソフトウェア
- - マルチメディア
+  - コンピュータの基本
+  - 記憶装置
+  - 入出力装置
+  - ソフトウェア
+  - マルチメディア
 - 2章：　データベース
- - データベース
+  - データベース
 
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
