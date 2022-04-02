@@ -9,6 +9,16 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
 ### 資格選択理由
 基本情報技術者取得の前段階として、ITパスポートでIT業界の共通的知識の習得をする為。
 
+## 学習内容(随時更新)
+- 1章：　コンピュータ
+ - コンピュータの基本
+ - 記憶装置
+ - 入出力装置
+ - ソフトウェア
+ - マルチメディア
+- 2章：　データベース
+ - データベース
+
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
 
