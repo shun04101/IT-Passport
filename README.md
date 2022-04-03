@@ -18,6 +18,11 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
   - マルチメディア
 - 2章：　データベース
   - データベース
+  - データベースの作成
+  - データベースの操作
+  - 抽出条件の指定
+- 3章：ネットワーク
+  - ネットワーク
 
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
