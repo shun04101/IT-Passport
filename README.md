@@ -23,6 +23,12 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
   - 抽出条件の指定
 - 3章：ネットワーク
   - ネットワーク
+  - 無線LAN
+  - プロトコル
+  - IPアドレス
+  - インターネットへの接続
+  - インターネットに関する技術
+  - IoT
 
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
