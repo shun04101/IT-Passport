@@ -36,6 +36,12 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
   - ネットワークセキュリティ
   - 暗号化技術
   - 情報セキュリティマネジメント
+- 5章：システムの導入
+  - システムの構成
+  - システム導入の流れ
+  - システム監査
+  - システムの性能評価
+  - 障害対策
 
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
