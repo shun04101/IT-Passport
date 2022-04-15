@@ -49,6 +49,12 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
   - アルゴリズムとデータ構造
   - システムのテスト
   - 開発モデル
+- 7章：プロジェクトマネジメント
+  - プロジェクトマネジメント
+  - アローダイヤグラム
+  - 順列と組み合わせ
+  - サービスマネジメント
+- 8章：企業活動
 
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
