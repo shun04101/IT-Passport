@@ -55,6 +55,15 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
   - 順列と組み合わせ
   - サービスマネジメント
 - 8章：企業活動
+  - 企業
+  - 経営戦略
+  - 生産戦略
+  - 業績の評価
+  - マーケティング
+  - 分析ツール
+  - 組織
+  - 業務
+- 9章：ITの活用
 
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
