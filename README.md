@@ -64,6 +64,11 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
   - 組織
   - 業務
 - 9章：ITの活用
+  - 技術開発戦略
+  - 情報システムの活用
+  - 効率的なIT投資
+  - e-ビジネス
+  - AIとIoTの活用
 
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
