@@ -69,6 +69,13 @@ ITパスポート(ｉパス)は、ITを利活用するすべての社会人・�
   - 効率的なIT投資
   - e-ビジネス
   - AIとIoTの活用
+- 10章：法務と財務
+  - 法務
+  - ITに関する法律
+  - 知的財産権
+  - 標準化
+  - 財務
+  - 財務諸表
 
 ### GoogleドキュメントURL(学習物)
 <https://docs.google.com/document/d/1YrN4Y_tkPWDDKjiKrosit07Vu5pzZNzX3zjlsxgb-cQ/edit?usp=sharing>
